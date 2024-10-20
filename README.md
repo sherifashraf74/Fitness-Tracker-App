@@ -31,7 +31,7 @@
 
 Here are some screenshots of the Fitness Tracker App:
 <p align="center">
-  <h2><a href="https://github.com/user-attachments/assets/96408181-6f1f-4255-b5aa-a48849c72080">View Project Video</a></h2>
+  <h1><a href="https://github.com/user-attachments/assets/96408181-6f1f-4255-b5aa-a48849c72080">View Project Video</a></h1>
 </p>
 
 <p align="center">
