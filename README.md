@@ -1,39 +1,27 @@
 # Fitness Tracker App
 ## Team Members
 
-<div style="display: flex; justify-content: space-between;">
+<table>
+  <tr>
+    <td><b><span style="color:#4682B4">Ahmed Mohamed AbdelFatah</span></b></td>
+    <td>GHR_SWD4_M1d</td>
+    <td><b><span style="color:#9400D3">Mahmoud Ibrahim Ahmed</span></b></td>
+    <td>GHR_SWD4_S1e</td>
+  </tr>
+  <tr>
+    <td><b><span style="color:#32CD32">Asmaa Ali Meligy</span></b></td>
+    <td>GHR_SWD4_M1d</td>
+    <td><b><span style="color:#FFD700">Mohammed Karam Alsadany</span></b></td>
+    <td>GHR_SWD4_S1e</td>
+  </tr>
+  <tr>
+    <td><b><span style="color:#FF7F50">Mahmoud Elsaid Kariem</span></b></td>
+    <td>GHR_SWD4_M1d</td>
+    <td><b><span style="color:#FF6347">Sherif Ashraf Ali</span></b></td>
+    <td>GHR_SWD4_M1d</td>
+  </tr>
+</table>
 
-  <table>
-    <tr>
-      <td><b><span style="color:#4682B4">Ahmed Mohamed AbdelFatah</span></b></td>
-      <td>GHR_SWD4_M1d</td>
-    </tr>
-    <tr>
-      <td><b><span style="color:#32CD32">Asmaa Ali Meligy</span></b></td>
-      <td>GHR_SWD4_M1d</td>
-    </tr>
-    <tr>
-      <td><b><span style="color:#FF7F50">Mahmoud Elsaid Kariem</span></b></td>
-      <td>GHR_SWD4_M1d</td>
-    </tr>
-  </table>
-
-  <table>
-    <tr>
-      <td><b><span style="color:#9400D3">Mahmoud Ibrahim Ahmed</span></b></td>
-      <td>GHR_SWD4_S1e</td>
-    </tr>
-    <tr>
-      <td><b><span style="color:#FFD700">Mohammed Karam Alsadany</span></b></td>
-      <td>GHR_SWD4_S1e</td>
-    </tr>
-    <tr>
-      <td><b><span style="color:#FF6347">Sherif Ashraf Ali</span></b></td>
-      <td>GHR_SWD4_M1d</td>
-    </tr>
-  </table>
-
-</div>
 
 
 
