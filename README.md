@@ -1,10 +1,25 @@
 # Fitness Tracker App
 ## Team Members
 
-| **Name**                   | **Group**          | **Name**                     | **Group**          | **Name**                   | **Group**          |
-|----------------------------|--------------------|------------------------------|--------------------|----------------------------|--------------------|
-| Sherif Ashraf Ali           | GHR_SWD4_M1d       | Asmaa Ali Meligy             | GHR_SWD4_M1d       | Mahmoud Elsaid Kariem      | GHR_SWD4_M1d       |
-| Ahmed Mohamed AbdelFatah    | GHR_SWD4_M1d       | Mahmoud Ibrahim Ahmed        | GHR_SWD4_S1e       | Mohammed Karam Alsadany    | GHR_SWD4_S1e       |
+<table>
+  <tr>
+    <td><b><span style="color:#FF6347">Sherif Ashraf Ali</span></b></td>
+    <td>GHR_SWD4_M1d</td>
+    <td><b><span style="color:#4682B4">Asmaa Ali Meligy</span></b></td>
+    <td>GHR_SWD4_M1d</td>
+    <td><b><span style="color:#32CD32">Mahmoud Elsaid Kariem</span></b></td>
+    <td>GHR_SWD4_M1d</td>
+  </tr>
+  <tr>
+    <td><b><span style="color:#FF7F50">Ahmed Mohamed AbdelFatah</span></b></td>
+    <td>GHR_SWD4_M1d</td>
+    <td><b><span style="color:#9400D3">Mahmoud Ibrahim Ahmed</span></b></td>
+    <td>GHR_SWD4_S1e</td>
+    <td><b><span style="color:#FFD700">Mohammed Karam Alsadany</span></b></td>
+    <td>GHR_SWD4_S1e</td>
+  </tr>
+</table>
+
 
 ## 📸 App Screenshots & Visual Design
 
