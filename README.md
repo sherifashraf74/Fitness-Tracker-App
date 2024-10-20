@@ -1,4 +1,11 @@
 # Fitness Tracker App
+## Team Members
+
+| **Name**                   | **Group**          | **Name**                     | **Group**          | **Name**                   | **Group**          |
+|----------------------------|--------------------|------------------------------|--------------------|----------------------------|--------------------|
+| Sherif Ashraf Ali           | GHR_SWD4_M1d       | Asmaa Ali Meligy             | GHR_SWD4_M1d       | Mahmoud Elsaid Kariem      | GHR_SWD4_M1d       |
+| Ahmed Mohamed AbdelFatah    | GHR_SWD4_M1d       | Mahmoud Ibrahim Ahmed        | GHR_SWD4_S1e       | Mohammed Karam Alsadany    | GHR_SWD4_S1e       |
+
 ## 📸 App Screenshots & Visual Design
 
 Here are some screenshots of the Fitness Tracker App:
