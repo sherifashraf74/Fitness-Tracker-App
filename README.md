@@ -31,17 +31,30 @@
 
 Here are some screenshots of the Fitness Tracker App:
 <p align="center">
-  https://github.com/user-attachments/assets/96408181-6f1f-4255-b5aa-a48849c72080 
-  <img src="https://github.com/user-attachments/assets/f275b9e8-8cae-4d73-b540-b34a55556dc0" alt="Picture1" width="300"/>
-  <img src="https://github.com/user-attachments/assets/d3184e1f-c1b9-4635-b7e1-943a197f8d1c" alt="Picture2" width="300"/>
-  <img src="https://github.com/user-attachments/assets/4b34adbe-27c4-4e2c-b717-8a814ec99ebb" alt="Picture3" width="300"/>
-  <img src="https://github.com/user-attachments/assets/48488d93-5fdc-4318-b16b-b65bf46ec997" alt="Screenshot 1" width="300"/>
-  <img src="https://github.com/user-attachments/assets/3070b420-f996-40ad-94b0-f57976949d8e" alt="Screenshot 2" width="300"/>
-  <img src="https://github.com/user-attachments/assets/77cff19b-322c-4631-92dd-aed178150558" alt="Screenshot 3" width="300"/>
-  <img src="https://github.com/user-attachments/assets/8f494f5f-6549-458a-9b88-b6f58c12e7aa" alt="Screenshot 4" width="300"/>
-  <img src="https://github.com/user-attachments/assets/c29a4078-79dc-41c3-a0a0-38c4a3126603" alt="Screenshot 5" width="300"/>
-  <img src="https://github.com/user-attachments/assets/ee899b33-5e0a-4dd7-90c6-80ef6b8c1638" alt="Screenshot 6" width="300"/>
-  <img src="https://github.com/user-attachments/assets/36b1cc04-9589-4c82-97c2-356545aa4ffd" alt="Screenshot 7" width="300"/>
+  <a href="https://github.com/user-attachments/assets/96408181-6f1f-4255-b5aa-a48849c72080">View Project Link</a>
+</p>
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/f275b9e8-8cae-4d73-b540-b34a55556dc0" alt="Picture1" width="300"/></td>
+      <td><img src="https://github.com/user-attachments/assets/d3184e1f-c1b9-4635-b7e1-943a197f8d1c" alt="Picture2" width="300"/></td>
+      <td><img src="https://github.com/user-attachments/assets/4b34adbe-27c4-4e2c-b717-8a814ec99ebb" alt="Picture3" width="300"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/48488d93-5fdc-4318-b16b-b65bf46ec997" alt="Screenshot 1" width="300"/></td>
+      <td><img src="https://github.com/user-attachments/assets/3070b420-f996-40ad-94b0-f57976949d8e" alt="Screenshot 2" width="300"/></td>
+      <td><img src="https://github.com/user-attachments/assets/77cff19b-322c-4631-92dd-aed178150558" alt="Screenshot 3" width="300"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/8f494f5f-6549-458a-9b88-b6f58c12e7aa" alt="Screenshot 4" width="300"/></td>
+      <td><img src="https://github.com/user-attachments/assets/c29a4078-79dc-41c3-a0a0-38c4a3126603" alt="Screenshot 5" width="300"/></td>
+      <td><img src="https://github.com/user-attachments/assets/ee899b33-5e0a-4dd7-90c6-80ef6b8c1638" alt="Screenshot 6" width="300"/></td>
+    </tr>
+    <tr>
+      <td colspan="3"><img src="https://github.com/user-attachments/assets/36b1cc04-9589-4c82-97c2-356545aa4ffd" alt="Screenshot 7" width="300"/></td>
+    </tr>
+  </table>
 </p>
 
 ## 📋 Introduction
