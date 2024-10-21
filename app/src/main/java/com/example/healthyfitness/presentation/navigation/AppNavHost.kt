@@ -4,6 +4,7 @@ import BackExerciseListScreen
 import BackExerciseViewModel
 import ExerciseSelectionScreen
 import SignUpViewModelFactory
+import android.content.Context
 import android.os.Build
 import androidx.annotation.RequiresApi
 import androidx.compose.foundation.layout.padding
@@ -16,6 +17,7 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalContext
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
@@ -67,6 +69,13 @@ import com.example.healthyfitness.presentation.utils.LogInViewModelFactory
 
 @Composable
 fun MainScreen() {
+
+
+    val sharedPreferences = LocalContext.current.getSharedPreferences("MyPrefs", Context.MODE_PRIVATE)
+    val isLoggedIn = sharedPreferences.getBoolean("isLoggedIn", false)
+
+
+
     val navController = rememberNavController()
 
     // Initialize ViewModels
@@ -101,6 +110,11 @@ fun MainScreen() {
 
     // Update title based on the current route
     LaunchedEffect(navController) {
+        if (isLoggedIn) {
+            navController.navigate(NavRoutes.ExerciseSelection.route) // Navigate to the main screen for logged-in users
+        } else {
+            navController.navigate(NavRoutes.Welcome.route) // Navigate to the welcome screen for new users
+        }
         navController.addOnDestinationChangedListener { _, destination, _ ->
             title = when (destination.route) {
                 NavRoutes.ExerciseSelection.route -> "Exercises"
@@ -284,6 +298,10 @@ fun MainScreen() {
                 LoginScreen(
                     viewModel = logViewModel,
                     onLoginSuccess = {
+                        val editor = sharedPreferences.edit()
+                        editor.putBoolean("isLoggedIn", true) // Set to true on successful signup
+                        editor.apply()
+
                         navController.navigate(NavRoutes.ExerciseSelection.route)
                     },
                     onNavigateToSignUp = {
