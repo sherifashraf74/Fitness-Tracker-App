@@ -1,9 +1,6 @@
 ## Fitness Tracker App
 
 ## Team Members
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/088979fe-92ad-4ab3-b91b-585b84c680f9" alt="Fitness Tracker App Logo" width="70" height="70"/>
-</p>
 
 <table>
   <tr>
@@ -35,7 +32,10 @@
 ## 📸 App Screenshots & Visual Design
 
 Here are some screenshots of the Fitness Tracker App:
-  <h1><a href="https://github.com/user-attachments/assets/96408181-6f1f-4255-b5aa-a48849c72080">View Project Video</a></h1>
+ <p align="left">
+  <img src="https://github.com/user-attachments/assets/088979fe-92ad-4ab3-b91b-585b84c680f9" alt="Fitness Tracker App Logo" width="70" height="70"/>
+</p>
+ <h1><a href="https://github.com/user-attachments/assets/96408181-6f1f-4255-b5aa-a48849c72080">View Project Video</a></h1>
 
 <p align="center">
   <table>
