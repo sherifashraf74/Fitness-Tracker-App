@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/088979fe-92ad-4ab3-b91b-585b84c680f9" alt="Fitness Tracker App Logo" width="50" height="50"/>
-  <span style="font-size: 28px; font-weight: bold;">Fitness Tracker App</span>
 </p>
+
+## Fitness Tracker App
 
 ## Team Members
 <table>
