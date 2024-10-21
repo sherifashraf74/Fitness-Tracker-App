@@ -256,13 +256,16 @@ fun MainScreen() {
                 Notifications()
             }
             composable(NavRoutes.HomeScreen1.route) {
-                HomePage1Screen()
+                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
+                    HomePage1Screen()
+                }
             }
 
             composable(NavRoutes.SignUp.route) {
                 SignUpScreen(
                     viewModel = signViewModel,
                     onSignUpSuccess = {
+                        navController.navigate(NavRoutes.SignIn.route)
                     },
                     onNavigateToLogin = {
                         navController.navigate(NavRoutes.SignIn.route)

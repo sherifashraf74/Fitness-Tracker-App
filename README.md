@@ -30,9 +30,7 @@
 ## 📸 App Screenshots & Visual Design
 
 Here are some screenshots of the Fitness Tracker App:
-<p align="center">
   <h1><a href="https://github.com/user-attachments/assets/96408181-6f1f-4255-b5aa-a48849c72080">View Project Video</a></h1>
-</p>
 
 <p align="center">
   <table>
@@ -55,7 +53,6 @@ Here are some screenshots of the Fitness Tracker App:
       <td colspan="3"><img src="https://github.com/user-attachments/assets/36b1cc04-9589-4c82-97c2-356545aa4ffd" alt="Screenshot 7" width="300"/></td>
     </tr>
   </table>
-</p>
 
 ## 📋 Introduction
 The **Fitness Tracker App** is an Android mobile application designed to help users organize, track, and improve their daily workouts and fitness progress. It offers personalized workout plans, calorie tracking, progress analysis, and motivational features to encourage users to achieve their fitness goals.
