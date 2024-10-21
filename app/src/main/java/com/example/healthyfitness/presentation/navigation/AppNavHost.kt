@@ -280,7 +280,7 @@ fun MainScreen() {
                         navController.navigate(NavRoutes.ExerciseSelection.route)
                     },
                     onNavigateToSignUp = {
-                        navController.navigate(NavRoutes.SignIn.route) {
+                        navController.navigate(NavRoutes.SignUp.route) {
                             popUpTo(NavRoutes.SignUp.route) { inclusive = true }
                         }
                     }
