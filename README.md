@@ -2,6 +2,7 @@
  <p align="left">
   <img src="https://github.com/user-attachments/assets/088979fe-92ad-4ab3-b91b-585b84c680f9" alt="Fitness Tracker App Logo" width="70" height="70"/>
 </p>
+
 ## Team Members
 
 <table>
