@@ -35,7 +35,7 @@
 ## 📸 App Screenshots & Visual Design
 
 Here are some screenshots of the Fitness Tracker App:
- <h1><a href="https://github.com/user-attachments/assets/96408181-6f1f-4255-b5aa-a48849c72080">View Project Video</a></h1>
+ <h1><a href="https://github.com/user-attachments/assets/1318c6ea-cdfd-4df1-92fa-5c5a2fff4bf4">View Project Video</a></h1>
 
 <p align="center">
   <table>
