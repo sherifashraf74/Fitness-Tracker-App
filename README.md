@@ -34,11 +34,7 @@
 
 ## 📸 App Screenshots & Visual Design
 
-<h1><a href="https://github.com/user-attachments/assets/1318c6ea-cdfd-4df1-92fa-5c5a2fff4bf4" target="_blank">View Project Video</a></h1>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/088979fe-92ad-4ab3-b91b-585b84c680f9" alt="Fitness Tracker Logo" width="300"/>
-</p>
+<h1><a href="https://github.com/user-attachments/assets/1318c6ea-cdfd-4df1-92fa-5c5a2fff4bf4" target="_blank">View Project Video <img src="https://github.com/user-attachments/assets/088979fe-92ad-4ab3-b91b-585b84c680f9" alt="Fitness Tracker Logo" width="300"/></a></h1>
 
   <table>
     <tr>
