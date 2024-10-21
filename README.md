@@ -73,7 +73,6 @@ Many people struggle with maintaining consistent fitness routines due to a lack 
 ## 🎯 Project Objectives
 The app enables users to:
 - 📅 Track daily workouts.
-- 📝 Create personalized workout and nutrition plans.
 - 🍽️ Monitor calorie intake.
 - 📚 View exercise instructions.
 - 📈 Share results and track progress.
@@ -85,10 +84,8 @@ The app enables users to:
 ### Functional Requirements
 - **🔐 User Account Creation:** Register with name, email, and password.
 - **🔑 Login:** Login using email or social media accounts.
-- **🔄 Forgot Password:** Reset password via email verification.
 - **🏋️ Start Workout:** Select from pre-defined or custom workout plans.
 - **🍔 Calorie Tracking:** View meal calories for breakfast, lunch, and dinner.
-- **📊 View Statistics:** Track daily, weekly, and monthly calories burned.
 - **🔔 Notifications:** Reminders for fitness goals and tasks.
 - **☁️ Server Sync:** Sync data with Firebase when internet is available.
 
@@ -116,9 +113,8 @@ The app enables users to:
 ## 🚀 Implementation Plan
 1. **📋 Requirements Gathering**
 2. **🎨 UI Design**
-3. **🔧 Backend Development**
-4. **🔗 Frontend-Backend Integration**
-5. **🧪 Testing and Refining**
+3. **🔗 Frontend-Backend Integration**
+4. **🧪 Testing and Refining**
 
 ## 🔮 Future Enhancements
 - 📱 iOS platform support.
