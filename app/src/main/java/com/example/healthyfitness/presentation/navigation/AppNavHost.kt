@@ -23,6 +23,7 @@ import androidx.navigation.compose.rememberNavController
 import com.example.healthyfitness.data.data_source.remote.retrofit.RetrofitInstance
 import com.example.healthyfitness.data.data_source.repository.LoginRepository
 import com.example.healthyfitness.data.data_source.repository.SignUpRepository
+import com.example.healthyfitness.presentation.screens.WelcomeScreen
 import com.example.healthyfitness.presentation.screens.notification.Notifications
 import com.example.healthyfitness.presentation.screens.common_components.Exercise
 import com.example.healthyfitness.presentation.screens.common_components.customs.CustomAppBar
@@ -132,7 +133,7 @@ fun MainScreen() {
                 else -> -1
             }
             showBars = when (destination.route) {
-                NavRoutes.SignIn.route, NavRoutes.SignUp.route -> false
+                NavRoutes.SignIn.route,NavRoutes.SignUp.route, NavRoutes.Welcome.route -> false
                 else -> true
             }
 
@@ -154,9 +155,15 @@ fun MainScreen() {
     ) { innerPadding ->
         NavHost(
             navController,
-            startDestination = NavRoutes.SignUp.route,
+            startDestination = NavRoutes.Welcome.route,
             modifier = Modifier.padding(innerPadding)
         ) {
+            composable(NavRoutes.Welcome.route) {
+                WelcomeScreen(
+                    onSignUp = { navController.navigate(NavRoutes.SignUp.route) },
+                    onSignIn = { navController.navigate(NavRoutes.SignIn.route) }
+                )
+            }
             composable(NavRoutes.FoodList.route) {
 
                 if (state != null) {
