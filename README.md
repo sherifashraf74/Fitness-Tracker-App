@@ -38,7 +38,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/user-attachments/assets/1318c6ea-cdfd-4df1-92fa-5c5a2fff4bf4" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/440a70ff-5855-4471-be18-bb96bbb0e274" alt="Fitness Tracker Video" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="https://github.com/user-attachments/assets/b5b7b963-c904-41ae-b5b0-bfa375f9f1c3" alt="Fitness Tracker Video" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   </a>
 </p>
 
