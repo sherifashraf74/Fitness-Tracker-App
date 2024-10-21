@@ -24,14 +24,6 @@ class MainActivity : ComponentActivity() {
         setContent {
             HealthyFitnessTheme(dynamicColor = false) {
 
-//                Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-//                    Greeting(
-//                        name = "Android",
-//                        modifier = Modifier.padding(innerPadding)
-//                    )
-////                    AppNavHost()
-//                }
-//                HomePage1Screen()
                 MainScreen()
             }
         }
