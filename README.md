@@ -37,7 +37,7 @@
   <span style="font-size: 1.5em; font-weight: bold;">🎥 Watch the Project Video</span>
 </p>
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/1318c6ea-cdfd-4df1-92fa-5c5a2fff4bf4" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/user-attachments/assets/c289451a-456f-4ca9-b5b6-ac4ecdeae8f0" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/user-attachments/assets/b5b7b963-c904-41ae-b5b0-bfa375f9f1c3" alt="Fitness Tracker Video" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   </a>
 </p>
@@ -73,6 +73,7 @@ Many people struggle with maintaining consistent fitness routines due to a lack 
 ## 🎯 Project Objectives
 The app enables users to:
 - 📅 Track daily workouts.
+- 📝 Create personalized workout and nutrition plans.
 - 🍽️ Monitor calorie intake.
 - 📚 View exercise instructions.
 - 📈 Share results and track progress.
@@ -84,8 +85,10 @@ The app enables users to:
 ### Functional Requirements
 - **🔐 User Account Creation:** Register with name, email, and password.
 - **🔑 Login:** Login using email or social media accounts.
+- **🔄 Forgot Password:** Reset password via email verification.
 - **🏋️ Start Workout:** Select from pre-defined or custom workout plans.
 - **🍔 Calorie Tracking:** View meal calories for breakfast, lunch, and dinner.
+- **📊 View Statistics:** Track daily, weekly, and monthly calories burned.
 - **🔔 Notifications:** Reminders for fitness goals and tasks.
 - **☁️ Server Sync:** Sync data with Firebase when internet is available.
 
@@ -113,8 +116,9 @@ The app enables users to:
 ## 🚀 Implementation Plan
 1. **📋 Requirements Gathering**
 2. **🎨 UI Design**
-3. **🔗 Frontend-Backend Integration**
-4. **🧪 Testing and Refining**
+3. **🔧 Backend Development**
+4. **🔗 Frontend-Backend Integration**
+5. **🧪 Testing and Refining**
 
 ## 🔮 Future Enhancements
 - 📱 iOS platform support.
